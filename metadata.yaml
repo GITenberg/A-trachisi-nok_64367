@@ -1,0 +1,42 @@
+_repo: A-trachisi-nok_64367
+_version: 0.0.1
+alternative_title: Trachiniae. Hungarian
+contributor:
+  translator:
+    agent_name: Csiky, Gergely
+    alias: Csiki, Gergely
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '32843'
+    url: http://www.gutenberg.org/2009/agents/32843
+    wikipedia: http://hu.wikipedia.org/wiki/Csiky_Gergely
+creator:
+  author:
+    agent_name: Sophocles
+    aliases:
+    - Sophokles
+    - Σοφοκλής
+    - Sófocles
+    birthdate: -496
+    deathdate: -406
+    gutenberg_agent_id: '26'
+    url: http://www.gutenberg.org/2009/agents/26
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sophocles
+    - https://hu.wikipedia.org/wiki/Szophokl%C3%A9sz
+description: ''
+gutenberg_issued: '2021-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64367'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcc 'PA'
+- !lcsh 'Heracles (Greek mythological character) -- Drama'
+- GITenberg
+title: A trachisi nők
+url: http://www.gutenberg.org/ebooks/64367
