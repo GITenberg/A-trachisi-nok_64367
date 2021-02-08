@@ -1,5 +1,5 @@
 _repo: A-trachisi-nok_64367
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Trachiniae. Hungarian
 contributor:
   translator:
@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '32843'
     url: http://www.gutenberg.org/2009/agents/32843
     wikipedia: http://hu.wikipedia.org/wiki/Csiky_Gergely
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sophocles
@@ -25,6 +28,8 @@ creator:
     - https://en.wikipedia.org/wiki/Sophocles
     - https://hu.wikipedia.org/wiki/Szophokl%C3%A9sz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64367#A-trachisi-nok
 gutenberg_issued: '2021-01-22'
 gutenberg_type: Text
 identifiers:
